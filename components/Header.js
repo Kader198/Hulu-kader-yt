@@ -20,7 +20,7 @@ export const Header = (props) => {
                <HeaderItem title="Search" Icon={SearchIcon}/>
                <HeaderItem title="light" Icon={LightningBoltIcon} />
                <HeaderItem title="Collect" Icon={CollectionIcon} />
-            </div>
+            </div>            
             <Image src="/hul.svg" className="object-contain" color="white" height={100} width={200}/>
         </header>
     )
